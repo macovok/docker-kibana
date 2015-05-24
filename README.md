@@ -1,2 +1,2 @@
-# docker-kibana
-docker image for kibana
+# Kibana
+Kibana 3.1.2
